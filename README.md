@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baekjung Kim!</h1>
-<h3 align="center">Developer of Thegraphicnovels.</h3>
+<h3 align="center">A all-time full-stack developer of thegraphicnovels company</h3>
 
 - 🔭 I’m currently working on **react**
 
